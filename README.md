@@ -102,27 +102,16 @@ The script [YamadaZucker.par](http://web.njit.edu/%7Ematveev/calc/examples/Yamad
 
 ---
 
-This material is based upon work supported by the [National Science Foundation](http://www.nsf.gov/) grant  
-[0417416](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0417416) and  
-[0817703](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0817703).  
+This material is based upon work supported by the [National Science Foundation](http://www.nsf.gov/) grant [0417416](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0417416) and [0817703](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0817703).  
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
 
 ---
 
-<address>  
-<small>  
 [Victor Matveev](http://web.njit.edu/%7Ematveev)  
-</small>  
-</address>  
-
-<small>  
-This server is running a  
-[Redhat](http://www.redhat.com/) distribution of  
-[Linux](http://www.linux.org/).  
-<br>  
-Last modified: Feb 15, 2009  
-</small>  
+ 
+This server is running a [Redhat](http://www.redhat.com/) distribution of [Linux](http://www.linux.org/).  
 
 ---
+Last modified: Feb 15, 2009  
 
-2025-06-02: Converted README to Markdown.
+Converted README to Markdown: Jun 2, 2025
