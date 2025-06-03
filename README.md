@@ -2,13 +2,11 @@
 [Calcium Calculator Simulation Scripts](http://web.njit.edu/~matveev/calc/scripts.html) web page taken on April 13th, 2009.  
 The 7th listed item contains the link for the code associated with Yamada and Zucker 1992.
 
-<center>
 
 | Calcium Calculator Simulation Script Files                                                                                                    |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
 | [CalC Download](http://web.njit.edu/%7Ematveev/calc.html) | [CalC Manual](http://web.njit.edu/%7Ematveev/calc/manual.html) | [CalC Scripts](http://web.njit.edu/%7Ematveev/calc/scripts.html) | [CalC Publications](http://web.njit.edu/%7Ematveev/calc/calc_pub.html) | [Victor's Homepage](http://web.njit.edu/%7Ematveev/) |
 
-</center>
 
 |    |       |                                                                                                                                                                            |
 |----|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -16,7 +14,7 @@ The 7th listed item contains the link for the code associated with Yamada and Zu
 
 ---
 
-<center>#### Publication Scripts:</center>
+### Publication Scripts:</center>
 
 ---
 
